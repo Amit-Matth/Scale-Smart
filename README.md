@@ -1,6 +1,8 @@
 # 🏋️‍♂️ Scale Smart  
 
-A **Body Mass Index (BMI) Calculator** designed to help users determine their ideal weight range based on their height and weight.  
+A **Body Mass Index (BMI) Calculator** built with **Flutter**, designed to help users determine their ideal weight range based on their height and weight.  
+
+Compatible with all devices, including **Windows, macOS, iOS, Android, and Linux**.  
 
 ---
 
