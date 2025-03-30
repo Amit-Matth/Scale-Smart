@@ -1,16 +1,14 @@
-# scalesmart
+# 🏋️‍♂️ Scale Smart  
 
-A new Flutter project.
+A **Body Mass Index (BMI) Calculator** designed to help users determine their ideal weight range based on their height and weight.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 Features  
+- **Calculate your BMI** based on height and weight  
+- **BMI Categories**: Underweight, Overweight & Healthy
+- **User-friendly Interface** for a smooth experience  
+- **Works Offline** – No internet connection required  
+- **Health Insights** to better understand your BMI score  
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
